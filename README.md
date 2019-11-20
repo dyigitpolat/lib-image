@@ -1,2 +1,3 @@
-# cv2-wrapper-lib
-A library of higher level Python wrappers for OpenCV functions.
+# lib-image
+A python library that provides higher level wrappers of commonly used image processing primitives.
+Uses OpenCV.
